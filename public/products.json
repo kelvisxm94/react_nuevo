@@ -1,0 +1,23 @@
+[
+    {"id": "die1", "title": "Dieta 1", "description": "Dieta", "regularPrice": 220},
+    {"id": "die2", "title": "Dieta 2", "description": "Dieta", "regularPrice": 220},
+    {"id": "die3", "title": "Dieta 3", "description": "Dieta", "regularPrice": 220},
+    {"id": "die4", "title": "Dieta 4", "description": "Dieta", "regularPrice": 220},
+    {"id": "die5", "title": "Dieta 5", "description": "Dieta", "regularPrice": 220},
+    {"id": "rut1", "title": "Rutina 1", "description": "Rutina", "regularPrice": 700},
+    {"id": "rut2", "title": "Rutina 2", "description": "Rutina", "regularPrice": 700},
+    {"id": "rut3", "title": "Rutina 3", "description": "Rutina", "regularPrice": 700},
+    {"id": "rut4", "title": "Rutina 4", "description": "Rutina", "regularPrice": 700},
+    {"id": "rut5", "title": "Rutina 5", "description": "Rutina", "regularPrice": 700},
+    {"id": "pqt1", "title": "Paquete 1", "description": "Paquete", "regularPrice": 700},
+    {"id": "pqt2", "title": "Paquete 2", "description": "Paquete", "regularPrice": 700},
+    {"id": "pqt3", "title": "Paquete 3", "description": "Paquete", "regularPrice": 700},
+    {"id": "pqt4", "title": "Paquete 4", "description": "Paquete", "regularPrice": 700},
+    {"id": "pqt5", "title": "Paquete 5", "description": "Paquete", "regularPrice": 700},
+    {"id": "prm1", "title": "Promoción 1", "description": "Promoción", "regularPrice": 5000},
+    {"id": "prm2", "title": "Promoción 2", "description": "Promoción", "regularPrice": 5000},
+    {"id": "prm3", "title": "Promoción 3", "description": "Promoción", "regularPrice": 5000},
+    {"id": "prm4", "title": "Promoción 4", "description": "Promoción", "regularPrice": 5000},
+    {"id": "prm5", "title": "Promoción 5", "description": "Promoción", "regularPrice": 5000}
+
+]
